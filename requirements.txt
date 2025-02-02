@@ -1,0 +1,9 @@
+streamlit
+requests
+torch
+nltk
+transformers
+pymilvus
+pyyaml
+numpy
+
